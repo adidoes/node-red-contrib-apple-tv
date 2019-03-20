@@ -11,7 +11,8 @@
     "node-red": {
         "nodes": {
             "atv-config": "config/atv-config.js",
-            "atv-input": "input/atv-input.js"
+            "atv-input": "input/atv-input.js",
+            "atv-state": "input/atv-state.js"
         }
     },
     "dependencies": {
